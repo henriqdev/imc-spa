@@ -2,7 +2,7 @@
   <q-page class="flex flex-center">
     <q-header class="bg-white" elevated>
       <q-toolbar>
-        <q-btn flat dense text-color="primary" icon="fa fa-arrow-left" />
+        <q-btn to="/" flat dense text-color="primary" icon="fa fa-arrow-left" />
       </q-toolbar>
     </q-header>
     <div>
